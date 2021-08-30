@@ -26,7 +26,7 @@ var select = document.getElementById('music-select');
 const covers = ['clip', 'rose'];
 
 // Song titles
-const songs = ['All is Found piano','Combo Surroundings','Let Everything Happen Piano'] ;
+const songs = ['Bach Invention No.1','Combo Surroundings','Let Everything Happen Piano'] ;
 
 /*const folder = './music/';
 const fs = require(['fs']);
