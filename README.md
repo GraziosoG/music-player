@@ -1,6 +1,6 @@
 # music-player
 This project is built on top of the ["build a music player" tutorial by Traversy Media](https://www.youtube.com/watch?v=QTHRWGn_sJw). 
-Shout out to **Traversy Media** for this awesome project and the eye-catching design.  I learned a lot from this tutorial and I also have some modifications to the final product. 
+Huge shout out to **Traversy Media** for this awesome project and the eye-catching design.  I learned a lot from this tutorial and I also have some modifications to the final project. The code is based on [the one created by Traversy Media](https://github.com/bradtraversy/vanillawebprojects/tree/master/music-player).
 
 Below are the different features that you can see from my version of this product. 
 * Change CD cover by clicking on the CD player when music is playing
